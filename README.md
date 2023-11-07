@@ -1,4 +1,4 @@
-# Lab-2-from-Statistical-modelling
+# Lab-2-from-Statistical-modelling(Monte Carlo)
 Hi there,let me explain in details this lab work:
 Task encompassed next  steps:
 1. Create a game using random numbers
